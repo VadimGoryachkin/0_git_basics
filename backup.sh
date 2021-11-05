@@ -1,5 +1,7 @@
 #!/bin/bash
 date
-echo "Random text"
-echo "for extra commit"
-ps aux
+echo "Hello World!" #out most favorite text lmao
+
+echo "Praise the lord"
+
+echo "YEAH"
